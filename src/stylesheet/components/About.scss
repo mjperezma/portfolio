@@ -1,8 +1,9 @@
 .container__about {
 
   background: #C9CCD3;
-  background-color: whitesmoke;
+  background-color: #FFFFFF;
   height: 100vh;
+  overflow-x: hidden;
 
   &--div {
     display: flex;
