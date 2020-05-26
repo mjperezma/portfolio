@@ -18,10 +18,10 @@ const About = () => {
           <section className='container__about--div'>
             <img className='container__about--img' src={img} title='foto de María José' alt='foto de María José' />
             <div className='container__about--text'>
-              <p>
-                ¡Hola! Soy María José y soy desarrolladora Front-End junior. Me gradué en filología hispánica, pero ser un poco inquieta, y las ganas de seguir aprendiendo, me llevaron a reinventarme en la programación gracias a Adalab. <p className='about'> Mi experiencia laboral de atención al cliente, me ha ayudado a desarrollar una gran capacidad de adaptabilidad al cambio, tolerancia al estrés y empatía, así como un gran don de gentes.</p>
+              <p className='container__about--paragrap'>
+                ¡Hola! Soy María José y soy desarrolladora Front-End junior. Me gradué en filología hispánica, pero ser un poco inquieta, y las ganas de seguir aprendiendo, me llevaron a reinventarme en la programación gracias a Adalab. <p className='about container__about--paragrap'> Mi experiencia laboral de atención al cliente, me ha ayudado a desarrollar una gran capacidad de adaptabilidad al cambio, tolerancia al estrés y empatía, así como un gran don de gentes.</p>
               </p>
-              <p> En la actualidad, continúo ampliando conocimientos de la mano de Geekshubs. ¡Con mucha ilusión y ganas de aportar mi bagaje al sector tecnológico!</p>
+              <p className='container__about--paragrap'> En la actualidad, continúo ampliando conocimientos de la mano de Geekshubs. ¡Con mucha ilusión y ganas de aportar mi bagaje al sector tecnológico!</p>
             </div>
           </section>
         </section>
