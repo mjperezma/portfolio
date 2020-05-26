@@ -1,0 +1,119 @@
+[{
+    "projects": [
+
+        {
+            "id": 0,
+            "name": "Rick & Morty App",
+            "url": "https://mjperezma.github.io/Rick---Morty-App/#/",
+            "code": "https://github.com/mjperezma/Rick---Morty-App",
+            "img": "https://www.tonica.la/__export/1586984295514/sites/debate/img/2020/04/15/anuncian-fechas-estrenos-nuevos-episodios-rick-and-morty.jpg_423682103.jpg",
+            "tags": [
+                "SCSS",
+                "React",
+                "APIs",
+                "Router"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Buscador de series",
+            "url": "https://mjperezma.github.io/Find-series/",
+            "code": "https://github.com/mjperezma/Find-series",
+            "img": "https://images.pexels.com/photos/918281/pexels-photo-918281.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+            "tags": [
+                "SCSS",
+                "JS",
+                "APIs"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Gestor de proyectos React",
+            "url": "https://mjperezma.github.io/Trello-React/#/",
+            "code": "https://github.com/mjperezma/Global-exercise-gmail-react",
+            "img": "https://images.pexels.com/photos/768473/pexels-photo-768473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+            "tags": [
+                "SCSS",
+                "React",
+                "APIs",
+                "Router",
+                "Bootstap"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Landing Responsive",
+            "url": "https://github.com/mjperezma/responsive-landing",
+            "code": "https://github.com/mjperezma/responsive-landing",
+            "img": "https://images.pexels.com/photos/374074/pexels-photo-374074.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+            "tags": [
+                "SCSS",
+                "HTML5"
+            ]
+        },
+
+        {
+            "id": 4,
+            "name": "Awesome card JS",
+            "subname": "Proyecto grupal",
+            "url": "http://beta.adalab.es/project-promo-i-module-2-team-1-morning/",
+            "code": "https://github.com/Adalab/project-promo-i-module-2-team-1-morning",
+            "img": "https://images.pexels.com/photos/326576/pexels-photo-326576.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+            "tags": [
+                "SCSS",
+                "JS",
+                "APIs"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Awesome card React",
+            "subname": "Proyecto grupal",
+            "url": "http://beta.adalab.es/project-promo-i-module-3-team-3-morning/#/",
+            "code": "https://github.com/Adalab/project-promo-i-module-3-team-3-morning",
+            "img": "https://images.pexels.com/photos/326576/pexels-photo-326576.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+            "tags": [
+                "SCSS",
+                "React",
+                "APIs",
+                "Router"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Code Fiction",
+            "subname": "Proyecto grupal",
+            "url": "http://beta.adalab.es/project-promo-i-module-1-team-1-morning/",
+            "code": "https://github.com/Adalab/project-promo-i-module-1-team-1-morning",
+            "img": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+            "tags": [
+                "SCSS",
+                "HTML5"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Drum Kit",
+            "url": "https://mjperezma.github.io/testing-javascript/",
+            "code": "https://github.com/mjperezma/testing-javascript",
+            "img": "https://images.pexels.com/photos/995301/pexels-photo-995301.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+            "tags": [
+                "SCSS",
+                "JS",
+                "APIs"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Buscador letras de canciones",
+            "url": "https://mjperezma.github.io/search-song-lyrics/",
+            "code": "https://github.com/mjperezma/search-song-lyrics",
+            "img": "https://images.pexels.com/photos/210764/pexels-photo-210764.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+            "tags": [
+                "SCSS",
+                "JS",
+                "APIs"
+            ]
+        }
+    ]
+}]

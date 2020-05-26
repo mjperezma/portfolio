@@ -1,0 +1,164 @@
+.container__about {
+
+  background: #C9CCD3;
+  background-color: whitesmoke;
+  height: 100vh;
+
+  &--div {
+    display: flex;
+    align-items: center;
+
+  }
+
+  &--img {
+    width: 200px;
+    height: auto;
+    margin-left: 200px;
+    box-shadow: 12px 29px 81px 0px rgba(0, 0, 0, 0.25);
+
+
+  }
+
+  &--title {
+    text-transform: uppercase;
+    font-size: 25px;
+  }
+
+
+
+  &--text {
+    font-size: 17px;
+    margin: 0 300px 0 80px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+
+  }
+
+  &--icon {
+    font-size: 30px;
+    margin: 20px 20px;
+  }
+
+
+}
+
+.btn {
+  display: flex;
+  text-transform: uppercase;
+  text-decoration: none;
+  align-items: center;
+  background-color: transparent;
+  border: 1.6px solid black;
+
+  font-family: 'Jost',
+    sans-serif;
+  ;
+  font-weight: bold;
+  padding-left: 15px;
+  width: 190px;
+  height: auto;
+  transition: box-shadow .3s;
+  box-shadow: -4px 4px 0 rgb(46, 44, 44);
+
+
+
+  &__text {
+    padding-left: 20px;
+  }
+
+  &__contact {
+    padding-left: 20px;
+
+  }
+}
+
+
+
+.btn:hover {
+  box-shadow: -4px 4px 0 #e9a79b;
+}
+
+
+.link {
+
+  text-decoration: none;
+  color: black;
+  display: flex;
+  justify-content: flex-end;
+  margin: 20px 90px 10px 0;
+  font-size: 13px;
+}
+
+
+
+.container {
+
+  display: flex;
+
+
+  &__line {
+
+    border-bottom: solid 2px black;
+    width: 60%;
+    height: 50px;
+    margin: 0 30px 0 150px;
+
+  }
+}
+
+.menu__btn {
+
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+
+}
+
+@media (max-width: 480px) {
+  .about {
+    display: none;
+  }
+
+  .container__about {
+
+    &--img {
+      width: 100px;
+      margin: 0;
+      text-align: center;
+    }
+
+    &--text {
+      margin: 20px;
+    }
+
+    &--div {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+  }
+
+  .menu__btn {
+    flex-direction: column;
+    margin-top: 25px;
+    align-items: center;
+
+  }
+
+  .btn {
+    padding-left: 0;
+  }
+
+  .link {
+
+    margin: 20px;
+  }
+
+  .container__line {
+    margin: 0 30px 0 50px
+  }
+}
+
+@media (max-width: 1024px) {}
