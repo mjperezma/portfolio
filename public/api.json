@@ -43,8 +43,8 @@
         {
             "id": 3,
             "name": "Landing Responsive",
-            "url": "https://github.com/mjperezma/responsive-landing",
-            "code": "https://github.com/mjperezma/responsive-landing",
+            "url": "https://github.com/mjperezma/Landing-page",
+            "code": "https://mjperezma.github.io/Landing-page/",
             "img": "https://images.pexels.com/photos/374074/pexels-photo-374074.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
             "tags": [
                 "SCSS",
